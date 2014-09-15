@@ -1,0 +1,22 @@
+5 2
+caterpillar
+bird
+horse
+elefant
+herb
+herb    caterpillar
+caterpillar bird
+
+10 0
+a_z
+b
+c
+d
+e
+f
+g
+h
+i
+j
+
+0 0
